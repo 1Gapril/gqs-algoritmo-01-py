@@ -39,6 +39,6 @@ O código possui dois testes pré-configurados. Veja o comportamento esperado:
 
 ### Saída Esperada no Terminal:
 ```text
-Teste 1: True
+Teste 1: False
 Teste 2: True
 ```
